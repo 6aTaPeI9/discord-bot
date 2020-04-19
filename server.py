@@ -152,4 +152,4 @@ def get_guild_rules_embed(member: discord.Member):
 
 
 if __name__ == '__main__':
-    BOT.run('NjkxOTM4MDE0NjgyOTM5NDEz.Xnt8Lg.0dDK-RXqMWp2Ob2zPhhzUFudaqY')
+    BOT.run('NjkxOTM4MDE0NjgyOTM5NDEz.XouZVg.FIgMzQa6RTLstDmUjA7j7EwzS94')
